@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SemestrWork_HipsterMarket/SemestrWork_HipsterMarket.iml" filepath="$PROJECT_DIR$/SemestrWork_HipsterMarket/SemestrWork_HipsterMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shop__.iml" filepath="$PROJECT_DIR$/Shop__.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fxclient/fxclient.iml" filepath="$PROJECT_DIR$/fxclient/fxclient.iml" />
+    </modules>
+  </component>
+</project>

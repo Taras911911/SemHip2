@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SemestrWork_HipsterMarket:war">
+    <output-path>$PROJECT_DIR$/SemestrWork_HipsterMarket/target</output-path>
+    <root id="archive" name="SemestrWork_HipsterMarket-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SemestrWork_HipsterMarket:war exploded" />
+    </root>
+  </artifact>
+</component>
